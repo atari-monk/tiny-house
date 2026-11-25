@@ -4,7 +4,7 @@
 - [dokumenty na zgłoszenie](#2-dokumenty-na-zgłoszenie)
 - [wybór miejsca](#3-wybór-miejsca)
 - [parametry](#4-parametry)
-- [wyznaczenie zarysu domu](#5-wyznaczenie-zarysu-domu-6-m-x-6-m)
+- [wyznaczenie zarysu domu](#5-wyznaczenie-zarysu-domu)
 - [wykopanie darni](#6-wykopanie-darni)
 
 ### 1. akt własności działki
@@ -24,7 +24,7 @@
 - powierzchnia zabudowy: 6 m x 6 m = 36 m2
 - powierzchnia wnętrza: 5.4 x 5.4 = 29.16 m2 (przy ścianie 30 cm)
 
-### 5. wyznaczenie zarysu domu 6 m x 6 m
+### 5. wyznaczenie zarysu domu
 
 - 4 kołki drewniane
 - sznurek murarski
